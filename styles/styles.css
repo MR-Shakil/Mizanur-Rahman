@@ -313,23 +313,65 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+
+
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .VD {
+  width: 96%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
+.about-stats .progress-bars .progress-bar .progress-con .progress .BS {
   width: 87%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+.about-stats .progress-bars .progress-bar .progress-con .progress .LD {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .PL {
+  width: 81%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .PC {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .DD {
+  width: 92%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .WD {
+  width: 78%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Illustration {
+  width: 98%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .ACS {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .MGD {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .AP {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .AI {
+  width: 98%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .AAE {
+  width: 72%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Indesign {
+  width: 76%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .APP {
   width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .82 {
+  width: 82%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .AA {
+  width: 91%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Figma {
+  width: 71%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Canva {
+  width: 79%;
 }
 
 .stat-title {
