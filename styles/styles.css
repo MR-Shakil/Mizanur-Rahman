@@ -188,10 +188,11 @@ section {
 
 .cursors{
   cursor: pointer;
+  transition: transform .2s;
 }
 
 .cursors:hover{
-  transform: scale(1);
+  transform: scale(1.5);
 }
 
 
