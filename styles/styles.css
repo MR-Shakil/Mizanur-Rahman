@@ -190,6 +190,11 @@ section {
   cursor: pointer;
 }
 
+.cursors:hover{
+  transform: scale(1);
+}
+
+
 .header-content .left-header .image img:hover {
   filter: grayscale(0);
 }
